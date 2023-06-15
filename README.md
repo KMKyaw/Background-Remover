@@ -13,5 +13,5 @@ Please following the given instructions
 #### Config
 `input_path` is the path to folder where you store the input images
 <!--Status code (normally 200) -->
-`output_path` is is the path to output folder 
+`output_path` is the path to output folder 
 
