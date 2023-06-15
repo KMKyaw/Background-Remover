@@ -1,5 +1,5 @@
 
-# Image Masking 
+# Background Remover
 
 Please following the given instructions
 
